@@ -14,8 +14,8 @@ This project implements Neural Style Transfer using PyTorch. It allows you to bl
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd prodigy_neural-style-transfer
+   git clone [<repository-url>](https://github.com/aimldlnlp/neural-style-transfer.git)
+   cd neural-style-transfer
    ```
 
 2. Create a Python virtual environment (optional but recommended):
